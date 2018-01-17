@@ -6,7 +6,7 @@ vsp = 0;
 grv = 0.4;
 hascontrol = true;
 //Number of jumps in leap
-jumpsmax = 3;
+jumpsmax = 2;
 
 jumpHeight = 11;
 jumps = 0;
