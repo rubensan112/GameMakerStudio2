@@ -1,0 +1,1 @@
+wallSpeed = -9;
