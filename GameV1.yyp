@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "28242a78-bd27-4add-98d7-64bd9120ba34",
+            "Value": {
+                "id": "98f5c0de-be14-44d5-a610-ba154e81eca2",
+                "resourcePath": "timelines\\timeline0\\timeline0.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "29e4fdd7-8d96-4410-a3c3-5b2cf018fbed",
             "Value": {
                 "id": "9d427105-d923-440c-b49c-c196230ef78d",
@@ -396,6 +404,14 @@
                 "id": "230cb7df-712b-4806-aad9-bbc89d75ca98",
                 "resourcePath": "objects\\oSword1\\oSword1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "738ecbe5-b131-4712-88a1-2b811a66d706",
+            "Value": {
+                "id": "b4a7cdd7-96ba-4b42-bf9c-47cdf134c443",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
             }
         },
         {
